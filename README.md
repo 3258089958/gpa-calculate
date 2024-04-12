@@ -14,8 +14,8 @@
 运行此项目前，你需要在系统上安装 Python。该项目使用了 Streamlit、Pandas 和 Matplotlib 等库。
 1. 克隆此仓库：
    ```bash
-   git clone https://github.com/yourusername/gpa-calculator.git #需要修改
-   cd gpa-calculator #需要修改
+   git clone https://github.com/3258089958/gpa-.git
+   cd gpa-calculator 
 2. 安装所需的包：
     pip install -r requirements.txt
 3. 运行应用程序：
