@@ -1,5 +1,5 @@
 # gpa-calculator
-本项目提供了一个基于 Web 的 GPA 计算器，使用 Streamlit 构建。它允许用户上传他们的课程成绩（Excel 格式），直接在网页界面编辑数据，并根据不同的课程类型计算 GPA。
+本项目提供了一个基于 Web 的 GPA 计算器，使用 Streamlit 构建。它允许用户上传他们的课程成绩（Excel 格式），直接在网页界面编辑数据，并根据不同的课程类型计算 GPA。仅适用于"中国石油大学(北京)克拉玛依校区"教务处导出的成绩单
 
 ## 功能
 
@@ -14,7 +14,7 @@
 运行此项目前，你需要在系统上安装 Python。该项目使用了 Streamlit、Pandas 和 Matplotlib 等库。
 1. 克隆此仓库：
    ```bash
-   git clone https://github.com/3258089958/gpa-.git
+   git clone https://github.com/3258089958/https://github.com/3258089958/gpa-.git.git
    cd gpa-calculator 
 2. 安装所需的包：
     pip install -r requirements.txt
