@@ -1,0 +1,6 @@
+### 2. requirements.txt
+
+streamlit
+pandas
+matplotlib
+openpyxl
